@@ -2158,7 +2158,7 @@ msgid "GMX transfers not yet enabled"
 msgstr "GMX 전송이 아직 불가능합니다."
 
 #: src/components/Common/SEO.js
-msgid "GMX | Decentralized Perpetual Exchange"
+msgid "GMX/BBX | Decentralized Perpetual Exchange"
 msgstr ""
 
 #: src/components/Synthetics/SubaccountModal/utils.ts

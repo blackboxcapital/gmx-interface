@@ -2158,7 +2158,7 @@ msgid "GMX transfers not yet enabled"
 msgstr "GMX-Übertragungen noch nicht aktiviert"
 
 #: src/components/Common/SEO.js
-msgid "GMX | Decentralized Perpetual Exchange"
+msgid "GMX/BBX | Decentralized Perpetual Exchange"
 msgstr ""
 
 #: src/components/Synthetics/SubaccountModal/utils.ts
